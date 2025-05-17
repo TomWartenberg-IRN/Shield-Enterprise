@@ -75,7 +75,12 @@ The enhanced Enterprise extensions (Files 11–17), including GDPR-grade complia
 
 These modules are reserved for licensing or acquisition negotiations and may be made available under a commercial license upon request. For enterprise access or evaluation, please contact:
 
-Tom Wartenberg
-Email: tom.wartenberg@web.de
+Note:
+The full Shield Enterprise framework consists of two component layers:
+
+Open Release (1–7 & 1.1–7.1): Publicly accessible core components including architecture, rule engine, deployment, and response logic.
+
+Restricted Enterprise Modules (11–17): Available only under commercial licensing. These modules include GDPR compliance, advanced audit logging, SIEM integration, policy extensions, and critical control layers.
+For evaluation or licensing inquiries, contact: tom.wartenberg@web.de
 
 
