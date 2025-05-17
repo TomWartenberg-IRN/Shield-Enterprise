@@ -67,4 +67,15 @@ These add-on components extend the core system for enterprise-grade deployments:
 ---
 
 ## 📂 Repository Structure
+Licensing & Enterprise Access
+This repository contains the core modules of the Shield Framework, including system architecture, rule engine, Python integration, deployment scheme, response logic, and demo structure (Files 1–7 and 1.1–7.1).
+
+Please note:
+The enhanced Enterprise extensions (Files 11–17), including GDPR-grade compliance modules, audit logging, SIEM integration, risk response orchestration and advanced policy filtering, are not included in this public release.
+
+These modules are reserved for licensing or acquisition negotiations and may be made available under a commercial license upon request. For enterprise access or evaluation, please contact:
+
+Tom Wartenberg
+Email: tom.wartenberg@web.de
+
 
