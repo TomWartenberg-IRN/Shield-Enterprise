@@ -66,8 +66,8 @@ These add-on components extend the core system for enterprise-grade deployments:
 
 ---
 
-## 📂 Repository Structure
-Licensing & Enterprise Access
+## 📂 Licensing & Enterprise Access
+
 This repository contains the core modules of the Shield Framework, including system architecture, rule engine, Python integration, deployment scheme, response logic, and demo structure (Files 1–7 and 1.1–7.1).
 
 Please note:
